@@ -1,4 +1,4 @@
-# 🚀 Crypto Price Checker
+#  Crypto Price Checker
 
 A simple web application built with **Node.js, Express, Axios, and EJS** to fetch real-time cryptocurrency prices using the **CoinGecko API**. 
 -> Enter a cryptocurrency name (e.g., `bitcoin`, `ethereum`) and get its latest price in **USD** instantly!
